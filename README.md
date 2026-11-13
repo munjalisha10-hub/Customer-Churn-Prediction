@@ -50,8 +50,8 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, Jupyter Noteb
 
 ## How to Run
 ```bash
-git clone https://github.com/YOUR-USERNAME/customer-churn-prediction.git
-cd customer-churn-prediction
+git clone https://github.com/munjalisha10-hub/Customer-Churn-Prediction.git
+cd Customer-Churn-Prediction
 pip install -r requirements.txt
 jupyter notebook churn_prediction.ipynb
 ```
